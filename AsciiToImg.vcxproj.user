@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>"Inhaltsangabe das Brot\\Das Brot, eine Kurzgeschichte aus der Epic von Wolfgang Borchert aus dem Jahr 1949, handelt von der Hungersnot nach dem 2. Weltkrieg, in der der Ehemann sogar heimlich Brot isst und es nicht gerecht mit seiner Frau teilt.\\Die Ehefrau wacht Nachts um halb drei auf, weil aus der Küche ein Geräusch kommt. Außerdem befindet sich ihr Mann nicht im Bett neben ihr. Nachdem sie in der Küche das Licht eingeschaltet hat, sieht sie ihren alt aussehenden Mann in seinem Nachthemd neben dem Küchentisch stehen, auf dem ein Brotteller mit einem Messer liegt. Auf der Tischdecke liegen Brotkrümel, obwohl sie sie jeden Abend sauber machte. Sie beide meinten das sie ein Geräusch gehört haben, doch die Frau erkennt, dass ihr Mann, mit dem sie schon 39 Jahre verheiratet ist, lügt. Daraufhin beharrte ihr Mann weiter auf der Tatsache das es ein Geräusch aus der Küche kam und sie kommen zum Schluss, dass die Dachrinne vom Wind gegen die Wand geschlagen sein musste, aber sie erkennt wie seine Stimme klingt, wenn er lügt. Danach gehen sie zu Bett und die Frau hört, als sie sich schlafend stellt, dass ihr Mann auf dem Brot kaut. Am nächsten Abend gibt sie ihm vier Scheiben Brot, die er aber nicht gern annimmt, weil er erkennt, dass sie weiß das er nachts das Brot gegessen hat."</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LocalDebuggerCommandArguments>
+    </LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
